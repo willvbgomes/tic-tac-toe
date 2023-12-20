@@ -1,0 +1,6 @@
+.game-score {
+  display: flex;
+
+  border-radius: 1rem;
+  border: 1px solid var(--main-color);
+}

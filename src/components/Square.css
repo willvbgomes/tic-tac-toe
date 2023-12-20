@@ -1,0 +1,20 @@
+.square {
+  font-size: clamp(1.5rem, 5vw, 3.5rem);
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
+
+  width: clamp(3.75rem, 15vw, 6.25rem);
+  height: clamp(3.75rem, 15vw, 6.25rem);
+
+  border: 1px solid var(--main-color);
+
+  cursor: pointer;
+}
+
+.x {
+  color: #3052ab;
+}
+
+.o {
+  color: #f6923d;
+}
