@@ -2,10 +2,8 @@
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/status-finalizado-2db739?style=plastic&labelColor=08090a">
-  <img alt="Static Badge" src="https://img.shields.io/badge/react-18.0.2-53d2fa?style=plastic&logo=react&labelColor=08090a
-">
-  <img alt="Static Badge" src="https://img.shields.io/badge/vite-5.0.8-b14cff?style=plastic&logo=vite&labelColor=08090a
-">
+  <img alt="Static Badge" src="https://img.shields.io/badge/react-18.0.2-53d2fa?style=plastic&logo=react&labelColor=08090a">
+  <img alt="Static Badge" src="https://img.shields.io/badge/vite-5.0.8-b14cff?style=plastic&logo=vite&labelColor=08090a">
 </p>
 
 ### Tópicos
